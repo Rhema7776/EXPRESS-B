@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+venv/
+
+# Build outputs and logs
+dist/
+*.log
+
+
+# Sensitive environment variables
+.env
